@@ -1,4 +1,5 @@
 # SNOW
+https://docs.google.com/spreadsheets/d/1HJLomFzrGkbV0FpsAAj3py8i5218OZv1zrcwgsAEBGE/edit?usp=drive_link
 <img width="901" height="673" alt="image" src="https://github.com/user-attachments/assets/fa4e0621-54c2-4bc7-b0dc-1c5b1b7ec7f8" />
 <img width="904" height="197" alt="image" src="https://github.com/user-attachments/assets/5939e9c7-325a-4e3c-826d-f28a0c9297bc" />
 <img width="732" height="440" alt="image" src="https://github.com/user-attachments/assets/85afc3ea-b162-4e41-8c61-645f04ca35d7" />
